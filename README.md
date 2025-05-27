@@ -31,7 +31,7 @@ res.slot()
 ## Result
 Thus the program executed successfully.
 
-## Dictionary Operations in Python: Merging Two Dictionaries
+# Dictionary Operations in Python: Merging Two Dictionaries
 
 ## 🎯 Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
